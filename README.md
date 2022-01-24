@@ -7,6 +7,7 @@ all the data we collected.
 #Election-Audit Results:
 
 ** ** There was a total of 369,711 votes
+
 ** ** The votes were as follow for County Votes:
 
 Jefferson: 10.5% (38,855)
